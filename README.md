@@ -1,18 +1,18 @@
 # infosec-news-briefs 2021
 
 ### Jump to a Month
-[JANUARY](#january) </br>
-[FEBRUARY](#february) </br>
-[MARCH](#march) </br>
-[APRIL](#april) </br>
-[MAY](#may) </br>
-[JUNE](#june) </br>
-[JULY](#july) </br>
-[AUGUST](#august) </br>
-[SEPTEMBER](#september) </br>
-[OCTOBER](#october) </br>
-[NOVEMBER](#november) </br>
-[DECEMBER](#december) </br>
+01 [JANUARY](#january) </br>
+02 [FEBRUARY](#february) </br>
+03 [MARCH](#march) </br>
+04 [APRIL](#april) </br>
+05 [MAY](#may) </br>
+06 [JUNE](#june) </br>
+07 [JULY](#july) </br>
+08 [AUGUST](#august) </br>
+09 [SEPTEMBER](#september) </br>
+10 [OCTOBER](#october) </br>
+11 [NOVEMBER](#november) </br>
+12 [DECEMBER](#december) </br>
 
 ## JANUARY
 ### 2021/01/19
