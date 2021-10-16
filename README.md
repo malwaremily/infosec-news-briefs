@@ -1,4 +1,4 @@
-# Security News in 2021
+# infosec-news-briefs 2021
 
 ### Jump to a Month
 [JANUARY](#january) </br>
