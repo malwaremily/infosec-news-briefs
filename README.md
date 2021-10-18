@@ -480,6 +480,12 @@
 #### Company That Routes Billions of Text Messages Quietly Says It Was Hacked
 * [Vice](https://www.vice.com/en/article/z3xpm8/company-that-routes-billions-of-text-messages-quietly-says-it-was-hacked) : Lorenzo Franceschi-Bicchierai "Syniverse handles billions of text messages a year, and hackers had unauthorized access to its system for years."
 
+#### Update about the October 4th (Facebook) outage
+* [Facebook Engineering](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) : "Our engineering teams have learned that configuration changes on the backbone routers that coordinate network traffic between our data centers caused issues that interrupted this communication. This disruption to network traffic had a cascading effect on the way our data centers communicate, bringing our services to a halt. "
+
+#### Understanding How Facebook Disappeared from the Internet
+* [Cloudflare](https://blog.cloudflare.com/october-2021-facebook-outage/) : "Today's events are a gentle reminder that the Internet is a very complex and interdependent system of millions of systems and protocols working together. That trust, standardization, and cooperation between entities are at the center of making it work for almost five billion active users worldwide."
+
 ### 2021/10/05
 #### The REBOL Yell: A New Novel REBOL Exploit
 * [FRSecure](https://frsecure.com/blog/the-rebol-yell-new-rebol-exploit/) : "We recently discovered a REBOL exploit used for command-and-control."
