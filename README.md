@@ -540,6 +540,10 @@
 * [ZDnet](https://www.zdnet.com/article/bugs-allowing-malicious-nft-uploads-uncovered-in-opensea-marketplace/) : Charlie Osborne "On Wednesday, the Check Point Research (CPR) team said that flaws in the OpenSea NFT marketplace could have allowed 'hackers to hijack user accounts and steal entire crypto wallets of users, by sending malicious NFTs.' An investigation was launched after reports surfaced of malicious NFTs, airdropped for free, being used as conduits for cryptocurrency theft and account hijacking."
 
 ### 2021/10/14
+
+#### Ongoing Cyber Threats to U.S. Water and Wastewater Systems Sector Facilities
+* [us-cert](https://us-cert.cisa.gov/ncas/current-activity/2021/10/14/ongoing-cyber-threats-us-water-and-wastewater-systems-sector): "CISA, the Federal Bureau of Investigation (FBI), the Environmental Protection Agency (EPA), and the National Security Agency (NSA) have released a joint Cybersecurity Advisory (CSA) that details ongoing cyber threats to U.S. Water and Wastewater Systems (WWS) Sector. This activity—which includes cyber intrusions leading to ransomware attacks—threatens the ability of WWS facilities to provide clean, potable water to, and effectively manage the wastewater of, their communities. The joint CSA provides extensive mitigations and resources to assist WWS Sector facilities in strengthening operational resilience and cybersecurity practices."
+
 #### Google Threat Analysis Group: Countering threats from Iran
 * [Google](https://blog.google/threat-analysis-group/countering-threats-iran/) : "Google’s Threat Analysis Group tracks actors involved in disinformation campaigns, government backed hacking, and financially motivated abuse. We have a long-standing policy to send you a warning if we detect that your account is a target of government-backed phishing or malware attempts. So far in 2021, we’ve sent over 50,000 warnings, a nearly 33% increase from this time in 2020. This spike is largely due to blocking an unusually large campaign from a Russian actor known as APT28 or Fancy Bear. We intentionally send these warnings in batches to all users who may be at risk, rather than at the moment we detect the threat itself, so that attackers cannot track our defense strategies. On any given day, TAG is tracking more than 270 targeted or government-backed attacker groups from more than 50 countries. This means that there is typically more than one threat actor behind the warnings."
 
@@ -549,6 +553,30 @@
 #### Acer confirms breach of after-sales service systems in India
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/acer-confirms-breach-of-after-sales-service-systems-in-india/) : Sergiu Gatlan "Taiwanese computer giant Acer has confirmed that its after-sales service systems in India were recently breached in what the company called 'an isolated attack.'...To additional requests for more details, Acer replied by saying that 'there is an ongoing investigation and for the sake of security, we are unable to comment on details.' Advanced Intel's Vitali Kremez told BleepingComputer that Advanced Intel's Andariel cyber intelligence platform spotted the Revil gang targeting a Microsoft Exchange server on Acer's domain before the attack."
 
+### 2021/10/15
+#### Apache Releases Security Advisory for Tomcat
+* [us-cert](https://us-cert.cisa.gov/ncas/current-activity/2021/10/15/apache-releases-security-advisory-tomcat): "The Apache Software Foundation has released a security advisory to address a vulnerability in multiple versions of Tomcat. An attacker could exploit this vulnerability to cause a denial of service condition. CISA encourages users and administrators to review Apache’s security advisory for CVE-2021-42340 and apply the necessary updates."
+
+
+### 2021/10/16
+
+#### Canon sued for disabling scanner when printers run out of ink
+* [BleepingComputer](https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/): Bill Toulas "Canon USA is being sued for not allowing owners of certain printers to use the scanner or faxing functions if they run out of ink."
+
+### 2021/10/17
+#### REvil ransomware shuts down again after Tor sites were hijacked
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/revil-ransomware-shuts-down-again-after-tor-sites-were-hijacked/): Lawrence Abrams "The REvil ransomware operation has likely shut down once again after an unknown person hijacked their Tor payment portal and data leak blog. The Tor sites went offline earlier today, with a threat actor affiliated with the REvil operation posting to the XSS hacking forum that someone hijacked the gang's domains."
+
+### 2021/10/18
+
+#### CISA, FBI, and NSA Release Joint Cybersecurity Advisory on BlackMatter Ransomware
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/18/cisa-fbi-and-nsa-release-joint-cybersecurity-advisory-blackmatter): "Since July 2021, malicious cyber actors have used BlackMatter ransomware to target multiple U.S. critical infrastructure entities, including a U.S. Food and Agriculture Sector organization. Using an analyzed sample of BlackMatter ransomware and information from trusted third parties, this CSA provides cyber actor tactics, techniques, and procedures and outlines mitigations to improve ransomware protection, detection, and response."
+
+#### Microsoft asks admins to patch PowerShell to fix WDAC bypass
+* [BleepingComputer](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-admins-to-patch-powershell-to-fix-wdac-bypass/): Sergiu Gatlan "Microsoft has asked system administrators to patch PowerShell 7 against two vulnerabilities allowing attackers to bypass Windows Defender Application Control (WDAC) enforcements and gain access to plain text credentials."
+
+#### State-backed hackers breach telcos with custom malware
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/state-backed-hackers-breach-telcos-with-custom-malware/) : Bill Toulas "A previously unknown state-sponsored actor is deploying a novel toolset in attacks targeting telecommunication providers and IT firms in South Asia. The goal of the group — tracked as Harvester by researchers at Symantec who spotted it — is to collect intelligence in highly targeted espionage campaigns focusing on IT, telecom, and government entities."
 
 # NOVEMBER
 # DECEMBER
