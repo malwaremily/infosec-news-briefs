@@ -543,10 +543,10 @@
 #### Google Threat Analysis Group: Countering threats from Iran
 * [Google](https://blog.google/threat-analysis-group/countering-threats-iran/) : "Google’s Threat Analysis Group tracks actors involved in disinformation campaigns, government backed hacking, and financially motivated abuse. We have a long-standing policy to send you a warning if we detect that your account is a target of government-backed phishing or malware attempts. So far in 2021, we’ve sent over 50,000 warnings, a nearly 33% increase from this time in 2020. This spike is largely due to blocking an unusually large campaign from a Russian actor known as APT28 or Fancy Bear. We intentionally send these warnings in batches to all users who may be at risk, rather than at the moment we detect the threat itself, so that attackers cannot track our defense strategies. On any given day, TAG is tracking more than 270 targeted or government-backed attacker groups from more than 50 countries. This means that there is typically more than one threat actor behind the warnings."
 
-### Microsoft releases Linux version of the Windows Sysmon tool
+#### Microsoft releases Linux version of the Windows Sysmon tool
 * [BleepingComputer](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-linux-version-of-the-windows-sysmon-tool/) : Lawrence Abrams "Microsoft has released a Linux version of the very popular Sysmon system monitoring utility for Windows, allowing Linux administrators to monitor devices for malicious activity. "
 
-### Acer confirms breach of after-sales service systems in India
+#### Acer confirms breach of after-sales service systems in India
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/acer-confirms-breach-of-after-sales-service-systems-in-india/) : Sergiu Gatlan "Taiwanese computer giant Acer has confirmed that its after-sales service systems in India were recently breached in what the company called 'an isolated attack.'...To additional requests for more details, Acer replied by saying that 'there is an ongoing investigation and for the sake of security, we are unable to comment on details.' Advanced Intel's Vitali Kremez told BleepingComputer that Advanced Intel's Andariel cyber intelligence platform spotted the Revil gang targeting a Microsoft Exchange server on Acer's domain before the attack."
 
 
