@@ -583,6 +583,9 @@
 #### Oracle Releases October 2021 Critical Patch Update
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/19/oracle-releases-october-2021-critical-patch-update): "Oracle has released its Critical Patch Update for October 2021 to address 419 vulnerabilities across multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. CISA encourages users and administrators to review the Oracle October 2021 Critical Patch Update and apply the necessary updates."
 
+#### Acer hacked twice in a week by the same threat actor
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/acer-hacked-twice-in-a-week-by-the-same-threat-actor/): Lawrence Abrams "Acer has suffered a second cyberattack in just a week by the same hacking group that says other regions are vulnerable... Acer later confirmed the breach but stated it was an "isolated attack," affecting only their after-sales service systems in India."
+
 # NOVEMBER
 # DECEMBER
 
