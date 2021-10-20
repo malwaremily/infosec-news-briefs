@@ -578,6 +578,11 @@
 #### State-backed hackers breach telcos with custom malware
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/state-backed-hackers-breach-telcos-with-custom-malware/) : Bill Toulas "A previously unknown state-sponsored actor is deploying a novel toolset in attacks targeting telecommunication providers and IT firms in South Asia. The goal of the group — tracked as Harvester by researchers at Symantec who spotted it — is to collect intelligence in highly targeted espionage campaigns focusing on IT, telecom, and government entities."
 
+### 2021/10/19
+
+#### Oracle Releases October 2021 Critical Patch Update
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/19/oracle-releases-october-2021-critical-patch-update): "Oracle has released its Critical Patch Update for October 2021 to address 419 vulnerabilities across multiple products. A remote attacker could exploit some of these vulnerabilities to take control of an affected system. CISA encourages users and administrators to review the Oracle October 2021 Critical Patch Update and apply the necessary updates."
+
 # NOVEMBER
 # DECEMBER
 
