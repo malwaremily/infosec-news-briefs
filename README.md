@@ -586,6 +586,31 @@
 #### Acer hacked twice in a week by the same threat actor
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/acer-hacked-twice-in-a-week-by-the-same-threat-actor/): Lawrence Abrams "Acer has suffered a second cyberattack in just a week by the same hacking group that says other regions are vulnerable... Acer later confirmed the breach but stated it was an "isolated attack," affecting only their after-sales service systems in India."
 
+### 2021/10/20
+
+#### Two Individuals Sentenced for Providing "Bulletproof Hosting" for Cybercriminals
+* [Department of Justice](https://www.justice.gov/opa/pr/two-individuals-sentenced-providing-bulletproof-hosting-cybercriminals): "Two Eastern European men were sentenced for providing “bulletproof hosting” services, which were used by cybercriminals between 2009 to 2015 to distribute malware and attack financial institutions and victims throughout the United States."
+
+#### Google Releases Security Updates for Chrome
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/20/google-releases-security-updates-chrome): "Google has released Chrome version 95.0.4638.54  for Windows, Mac, and Linux. This version addresses vulnerabilities that an attacker could exploit to take control of an affected system."
+
+#### DDoS attacks against Russian firms have almost tripled in 2021
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/ddos-attacks-against-russian-firms-have-almost-tripled-in-2021/): Bill Toulas "In terms of targeting trends, DDoS actors appear to be moving away from the gaming industry, which was the focus in 2020 due to COVID-19 lockdowns and stay-at-home orders, and are now targeting online trading, financial, and public sector entities. Compared to 2020, the attacks have grown 26% more powerful, last 1.5 days longer (from 3 to 4.5), and rely upon much larger botnets that count hundreds of thousands of devices. As for the types of DDoS attacks, the main methods remain SYN flooding, UDP flooding, and fragmented packet attacks (FRAG)."
+
+### 2021/10/21
+
+#### GPS Daemon (GPSD) Rollover Bug
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/21/gps-daemon-gpsd-rollover-bug): "On October 24, 2021, Network Time Protocol (NTP) servers using bugged GPSD versions 3.20-3.22 may rollback the date 1,024 weeks—to March 2002—which may cause systems and services to become unavailable or unresponsive."
+
+#### Department of Justice Files Suit to Recover Forfeiture Penalty for Nearly 5,000 Illegally Spoofed Robocalls
+* [Department of Justice News](https://www.justice.gov/opa/pr/department-justice-files-suit-recover-forfeiture-penalty-nearly-5000-illegally-spoofed): Wednesday, the Department of Justice served a complaint filed against a Montana man to recover a $9.9 million penalty imposed by the Federal Communications Commission (FCC) for nearly 5,000 unlawful and malicious “spoofed” robocalls.
+
+#### Massive campaign uses YouTube to push password-stealing malware
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/massive-campaign-uses-youtube-to-push-password-stealing-malware/): Lawrence Abrams "Widespread malware campaigns are creating YouTube videos to distribute password-stealing trojans to unsuspecting viewers...Frost told BleepingComputer that it is likely two clusters of malicious activity being conducted simultaneously - one pushing the RedLine malware and the other pushing Racoon Stealer."
+
+### US govt to ban export of hacking tools to authoritarian regimes
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/us-govt-to-ban-export-of-hacking-tools-to-authoritarian-regimes/): Sergiu Gatlan "The Commerce Department's Bureau of Industry and Security (BIS) today announced new controls that would ban U.S. companies from exporting and reselling software and hardware tools that could be used to fuel authoritarian practices through malicious hacking activities and human rights abuse."
+
 # NOVEMBER
 # DECEMBER
 
