@@ -603,12 +603,12 @@
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/21/gps-daemon-gpsd-rollover-bug): "On October 24, 2021, Network Time Protocol (NTP) servers using bugged GPSD versions 3.20-3.22 may rollback the date 1,024 weeks—to March 2002—which may cause systems and services to become unavailable or unresponsive."
 
 #### Department of Justice Files Suit to Recover Forfeiture Penalty for Nearly 5,000 Illegally Spoofed Robocalls
-* [Department of Justice News](https://www.justice.gov/opa/pr/department-justice-files-suit-recover-forfeiture-penalty-nearly-5000-illegally-spoofed): Wednesday, the Department of Justice served a complaint filed against a Montana man to recover a $9.9 million penalty imposed by the Federal Communications Commission (FCC) for nearly 5,000 unlawful and malicious “spoofed” robocalls.
+* [Department of Justice News](https://www.justice.gov/opa/pr/department-justice-files-suit-recover-forfeiture-penalty-nearly-5000-illegally-spoofed): "Wednesday, the Department of Justice served a complaint filed against a Montana man to recover a $9.9 million penalty imposed by the Federal Communications Commission (FCC) for nearly 5,000 unlawful and malicious “spoofed” robocalls."
 
 #### Massive campaign uses YouTube to push password-stealing malware
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/massive-campaign-uses-youtube-to-push-password-stealing-malware/): Lawrence Abrams "Widespread malware campaigns are creating YouTube videos to distribute password-stealing trojans to unsuspecting viewers...Frost told BleepingComputer that it is likely two clusters of malicious activity being conducted simultaneously - one pushing the RedLine malware and the other pushing Racoon Stealer."
 
-### US govt to ban export of hacking tools to authoritarian regimes
+#### US govt to ban export of hacking tools to authoritarian regimes
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/us-govt-to-ban-export-of-hacking-tools-to-authoritarian-regimes/): Sergiu Gatlan "The Commerce Department's Bureau of Industry and Security (BIS) today announced new controls that would ban U.S. companies from exporting and reselling software and hardware tools that could be used to fuel authoritarian practices through malicious hacking activities and human rights abuse."
 
 # NOVEMBER
