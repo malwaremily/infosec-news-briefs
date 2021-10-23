@@ -578,6 +578,9 @@
 #### State-backed hackers breach telcos with custom malware
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/state-backed-hackers-breach-telcos-with-custom-malware/) : Bill Toulas "A previously unknown state-sponsored actor is deploying a novel toolset in attacks targeting telecommunication providers and IT firms in South Asia. The goal of the group — tracked as Harvester by researchers at Symantec who spotted it — is to collect intelligence in highly targeted espionage campaigns focusing on IT, telecom, and government entities."
 
+#### IcedID to XingLocker Ransomware in 24 hours
+* [DFIR Report](https://thedfirreport.com/2021/10/18/icedid-to-xinglocker-ransomware-in-24-hours/): "Towards the end of July, we observed an intrusion that began with IcedID malware and ended in XingLocker ransomware, a Mountlocker variant. XingLocker made its first appearance in early May of this year. The new group was featured in the AstroLocker ransomware blog, and it has been very active since then."
+
 ### 2021/10/19
 
 #### Oracle Releases October 2021 Critical Patch Update
@@ -610,6 +613,16 @@
 
 #### US govt to ban export of hacking tools to authoritarian regimes
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/us-govt-to-ban-export-of-hacking-tools-to-authoritarian-regimes/): Sergiu Gatlan "The Commerce Department's Bureau of Industry and Security (BIS) today announced new controls that would ban U.S. companies from exporting and reselling software and hardware tools that could be used to fuel authoritarian practices through malicious hacking activities and human rights abuse."
+
+### 2021/10/22
+#### Justice Department Announces New Initiative to Combat Redlining 
+* [Justice News](https://www.justice.gov/opa/pr/justice-department-announces-new-initiative-combat-redlining): "The Justice Department announced the launch of the department’s new Combatting Redlining Initiative today. Redlining is an illegal practice in which lenders avoid providing services to individuals living in communities of color because of the race or national origin of the people who live in those communities...The gap in homeownership rates between white and Black families is larger today than it was in 1960, before the passage of the Fair Housing Act of 1968."
+
+#### South Florida Residents Convicted of Attempting to Illegally Export Controlled Items to Libya
+* [Justice News](https://www.justice.gov/opa/pr/south-florida-residents-convicted-attempting-illegally-export-controlled-items-libya): "A federal jury convicted a pair of Florida residents yesterday for their roles in an illegal exports scheme. According to court documents and evidence presented at trial, Peter Sotis, 57, of Delray Beach, and Emilie Voissem, 45, of Sunrise, participated in a scheme to cause the illegal export of rebreather diving equipment to Libya in August 2016."
+
+#### Malware Discovered in Popular NPM Package, ua-parser-js
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/22/malware-discovered-popular-npm-package-ua-parser-js): "Versions of a popular NPM package named ua-parser-js was found to contain malicious code. ua-parser-js is used in apps and websites to discover the type of device or browser a person is using from User-Agent data. A computer or device with the affected software installed or running could allow a remote attacker to obtain sensitive information or take control of the system."
 
 # NOVEMBER
 # DECEMBER
