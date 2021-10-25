@@ -624,6 +624,10 @@
 #### Malware Discovered in Popular NPM Package, ua-parser-js
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/22/malware-discovered-popular-npm-package-ua-parser-js): "Versions of a popular NPM package named ua-parser-js was found to contain malicious code. ua-parser-js is used in apps and websites to discover the type of device or browser a person is using from User-Agent data. A computer or device with the affected software installed or running could allow a remote attacker to obtain sensitive information or take control of the system."
 
+#### Critical RCE Vulnerability in Discourse
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/24/critical-rce-vulnerability-discourse): "iscourse—an open source discussion platform—has released a security advisory to address a critical remote code execution (RCE) vulnerability (CVE-2021-41163) in Discourse versions 2.7.8 and earlier."
+
+
 # NOVEMBER
 # DECEMBER
 
