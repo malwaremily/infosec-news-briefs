@@ -600,6 +600,9 @@
 #### DDoS attacks against Russian firms have almost tripled in 2021
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/ddos-attacks-against-russian-firms-have-almost-tripled-in-2021/): Bill Toulas "In terms of targeting trends, DDoS actors appear to be moving away from the gaming industry, which was the focus in 2020 due to COVID-19 lockdowns and stay-at-home orders, and are now targeting online trading, financial, and public sector entities. Compared to 2020, the attacks have grown 26% more powerful, last 1.5 days longer (from 3 to 4.5), and rely upon much larger botnets that count hundreds of thousands of devices. As for the types of DDoS attacks, the main methods remain SYN flooding, UDP flooding, and fragmented packet attacks (FRAG)."
 
+#### Phishing campaign targets YouTube creators with cookie theft malware
+* [Google TAG](https://blog.google/threat-analysis-group/phishing-campaign-targets-youtube-creators-cookie-theft-malware/): "Google’s Threat Analysis Group tracks actors involved in disinformation campaigns, government backed hacking, and financially motivated abuse. Since late 2019, our team has disrupted financially motivated phishing campaigns targeting YouTubers with Cookie Theft malware."
+
 ### 2021/10/21
 
 #### GPS Daemon (GPSD) Rollover Bug
@@ -614,6 +617,9 @@
 #### US govt to ban export of hacking tools to authoritarian regimes
 * [BleepingComputer](https://www.bleepingcomputer.com/news/security/us-govt-to-ban-export-of-hacking-tools-to-authoritarian-regimes/): Sergiu Gatlan "The Commerce Department's Bureau of Industry and Security (BIS) today announced new controls that would ban U.S. companies from exporting and reselling software and hardware tools that could be used to fuel authoritarian practices through malicious hacking activities and human rights abuse."
 
+#### Intelligence Insights: October 2011
+* [Red Canary](https://redcanary.com/blog/intelligence-insights-october-2021/): "Each month, the Intel team provides Red Canary customers with an analysis of trending, emerging, or otherwise important threats that we’ve encountered in confirmed threat detections, intelligence reporting, and elsewhere over the preceding month. We call this report our “Intelligence Insights” and share a public version of it with the broader infosec community."
+
 ### 2021/10/22
 #### Justice Department Announces New Initiative to Combat Redlining 
 * [Justice News](https://www.justice.gov/opa/pr/justice-department-announces-new-initiative-combat-redlining): "The Justice Department announced the launch of the department’s new Combatting Redlining Initiative today. Redlining is an illegal practice in which lenders avoid providing services to individuals living in communities of color because of the race or national origin of the people who live in those communities...The gap in homeownership rates between white and Black families is larger today than it was in 1960, before the passage of the Fair Housing Act of 1968."
@@ -624,9 +630,16 @@
 #### Malware Discovered in Popular NPM Package, ua-parser-js
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/22/malware-discovered-popular-npm-package-ua-parser-js): "Versions of a popular NPM package named ua-parser-js was found to contain malicious code. ua-parser-js is used in apps and websites to discover the type of device or browser a person is using from User-Agent data. A computer or device with the affected software installed or running could allow a remote attacker to obtain sensitive information or take control of the system."
 
+### 2021/10/24
 #### Critical RCE Vulnerability in Discourse
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/24/critical-rce-vulnerability-discourse): "iscourse—an open source discussion platform—has released a security advisory to address a critical remote code execution (RCE) vulnerability (CVE-2021-41163) in Discourse versions 2.7.8 and earlier."
 
+### 2021/10/25
+#### NOBELIUM Attacks on Cloud Services and other Technologies 
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/25/nobelium-attacks-cloud-services-and-other-technologies): "Microsoft has released a blog on NOBELIUM attacks on cloud services and other technologies. CISA urges users and administrators to review NOBELIUM targeting delegated administrative privileges to facilitate broader attacks and apply the necessary mitigations."
+
+#### NOBELIUM targeting delegated administrative privileges to facilitate broader attacks 
+* [Microsoft](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/): "The Microsoft Threat Intelligence Center (MSTIC) has detected nation-state activity associated with the threat actor tracked as NOBELIUM, attempting to gain access to downstream customers of multiple cloud service providers (CSP), managed service providers (MSP), and other IT services organizations... that have been granted administrative or privileged access by other organizations "
 
 # NOVEMBER
 # DECEMBER
