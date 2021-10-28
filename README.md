@@ -641,6 +641,13 @@
 #### NOBELIUM targeting delegated administrative privileges to facilitate broader attacks 
 * [Microsoft](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/): "The Microsoft Threat Intelligence Center (MSTIC) has detected nation-state activity associated with the threat actor tracked as NOBELIUM, attempting to gain access to downstream customers of multiple cloud service providers (CSP), managed service providers (MSP), and other IT services organizations... that have been granted administrative or privileged access by other organizations "
 
+### 2021/10/26
+
+### 2021/10/27
+
+#### FBI Releases Indicators of Compromise Associated with Ranzy Locker Ransomware
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/27/fbi-releases-indicators-compromise-associated-ranzy-locker): "The Federal Bureau of Investigation (FBI) has released a Flash report detailing indicators of compromise (IOCs) associated with attacks using Ranzy Locker, a ransomware variant first identified targeting victims in the United States in late 2020. CISA encourages users and administrators to review the IOCs and technical details in FBI Flash CU-000153-MW and apply the recommend mitigations."
+
 # NOVEMBER
 # DECEMBER
 
