@@ -643,10 +643,23 @@
 
 ### 2021/10/26
 
+#### International Law Enforcement Operation Targeting Opioid Traffickers on the Darknet Results in 150 Arrests Worldwide and the Seizure of Weapons, Drugs, and over $31 Million
+* [Department of Justice Press Release](https://www.justice.gov/opa/pr/international-law-enforcement-operation-targeting-opioid-traffickers-darknet-results-150): "Today, the Department of Justice, through the Joint Criminal Opioid and Darknet Enforcement (JCODE) team joined Europol to announce the results of Operation Dark HunTor, a coordinated international effort on three continents to disrupt opioid trafficking on the Darknet. The operation, which was conducted across the United States, Australia, and Europe, was a result of the continued partnership between JCODE and foreign law enforcement against the illegal sale of drugs and other illicit goods and services. Operation Dark HunTor builds on the success of last year’s Operation DisrupTor and the coordinated law enforcement takedown earlier this year of DarkMarket, the world’s then-largest illegal marketplace on the Darknet. At the time, German authorities arrested the marketplace’s alleged operator and seized the site’s infrastructure, providing investigators across the world with a trove of evidence. Europol’s European Cybercrime Centre (EC3) and JCODE have since been compiling intelligence packages to identify key targets."
+
 ### 2021/10/27
 
 #### FBI Releases Indicators of Compromise Associated with Ranzy Locker Ransomware
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/27/fbi-releases-indicators-compromise-associated-ranzy-locker): "The Federal Bureau of Investigation (FBI) has released a Flash report detailing indicators of compromise (IOCs) associated with attacks using Ranzy Locker, a ransomware variant first identified targeting victims in the United States in late 2020. CISA encourages users and administrators to review the IOCs and technical details in FBI Flash CU-000153-MW and apply the recommend mitigations."
+
+#### Apple Releases Security Updates for Multiple Products
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/27/apple-releases-security-updates-multiple-products): "Apple has released security updates to address vulnerabilities in multiple products. An attacker could exploit some of these vulnerabilities to take control of an affected system."
+
+#### NRA responds to reports of Grief ransomware attack
+* [ZDNet](https://www.zdnet.com/article/nra-responds-to-reports-of-grief-ransomware-attack/): Jonathan Greig "The National Rifle Association (NRA) has released a statement today after a ransomware gang claimed to have attacked the organization. The Grief ransomware gang -- which has ties to the prolific Russian cybercrime group Evil Corp -- posted about the NRA on its leak site, setting off hours of headlines and concerns from members of the group."
+
+#### Salesforce and Google create cybersecurity baseline for companies checking vendors
+* [ZDnet](https://www.zdnet.com/article/salesforce-and-google-create-cybersecurity-baseline-for-companies-checking-vendors/): Jonathan Greig "MVSP is presented in the form of a minimum baseline checklist that can be used to verify the security posture of a solution."
+
 
 # NOVEMBER
 # DECEMBER
