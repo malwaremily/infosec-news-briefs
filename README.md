@@ -660,6 +660,15 @@
 #### Salesforce and Google create cybersecurity baseline for companies checking vendors
 * [ZDnet](https://www.zdnet.com/article/salesforce-and-google-create-cybersecurity-baseline-for-companies-checking-vendors/): Jonathan Greig "MVSP is presented in the form of a minimum baseline checklist that can be used to verify the security posture of a solution."
 
+### 2021/10/28
+#### NSA-CISA Series on Securing 5G Cloud Infrastructures
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/28/nsa-cisa-series-securing-5g-cloud-infrastructures): "The National Security Agency (NSA) and CISA have published the first of a four-part series, Security Guidance for 5G Cloud Infrastructures. Security Guidance for 5G Cloud Infrastructures – Part I: Prevent and Detect Lateral Movement provides recommendations for mitigating lateral movement attempts by threat actors who have gained initial access to cloud infrastructures. "
+
+#### ISC Releases Security Advisory for BIND
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/28/isc-releases-security-advisory-bind): "The Internet Systems Consortium (ISC) has released a security advisory that addresses a vulnerability affecting multiple versions of the ISC Berkeley Internet Name Domain (BIND). A remote attacker could exploit this vulnerability to cause a denial-of-service condition. CISA encourages users and administrators to review the ISC advisory for CVE-2021-25219 and apply the necessary updates or workaround."
+
+#### 2021 CWE Most Important Hardware Weaknesses
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/28/2021-cwe-most-important-hardware-weaknesses): "The Homeland Security Systems Engineering and Development Institute, sponsored by the Department of Homeland Security and operated by MITRE, has released the 2021 Common Weakness Enumeration (CWE) Most Important Hardware Weaknesses List. The 2021 Hardware List is a compilation of the most frequent and critical errors that can lead to serious vulnerabilities in hardware. An attacker can often exploit these vulnerabilities to take control of an affected system, obtain sensitive information, or cause a denial-of-service condition."
 
 # NOVEMBER
 # DECEMBER
