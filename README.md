@@ -603,6 +603,9 @@
 #### Phishing campaign targets YouTube creators with cookie theft malware
 * [Google TAG](https://blog.google/threat-analysis-group/phishing-campaign-targets-youtube-creators-cookie-theft-malware/): "Google’s Threat Analysis Group tracks actors involved in disinformation campaigns, government backed hacking, and financially motivated abuse. Since late 2019, our team has disrupted financially motivated phishing campaigns targeting YouTubers with Cookie Theft malware."
 
+#### Windows Exploitation Tricks: Relaying DCOM Authentication
+* [Google Project Zero](https://googleprojectzero.blogspot.com/): James Forshaw "In my previous blog post I discussed the possibility of relaying Kerberos authentication from a DCOM connection. I was originally going to provide a more in-depth explanation of how that works, but as it's quite involved I thought it was worthy of its own blog post. This is primarily a technique to get relay authentication from another user on the same machine and forward that to a network service such as LDAP. You could use this to escalate privileges on a host using a technique similar to a blog post from Shenanigans Labs but removing the requirement for the WebDAV service. Let's get straight to it."
+
 ### 2021/10/21
 
 #### GPS Daemon (GPSD) Rollover Bug
@@ -641,6 +644,9 @@
 #### NOBELIUM targeting delegated administrative privileges to facilitate broader attacks 
 * [Microsoft](https://www.microsoft.com/security/blog/2021/10/25/nobelium-targeting-delegated-administrative-privileges-to-facilitate-broader-attacks/): "The Microsoft Threat Intelligence Center (MSTIC) has detected nation-state activity associated with the threat actor tracked as NOBELIUM, attempting to gain access to downstream customers of multiple cloud service providers (CSP), managed service providers (MSP), and other IT services organizations... that have been granted administrative or privileged access by other organizations "
 
+#### Correlate security findings with AWS Security Hub and Amazon EventBridge
+* [AWS Security Blog](https://aws.amazon.com/blogs/security/correlate-security-findings-with-aws-security-hub-and-amazon-eventbridge/): "In this blog post, we’ll walk you through deploying a solution to correlate specific AWS Security Hub findings from multiple AWS services that are related to a single AWS resource, which indicates an increased possibility that a security incident has happened."
+
 ### 2021/10/26
 
 #### International Law Enforcement Operation Targeting Opioid Traffickers on the Darknet Results in 150 Arrests Worldwide and the Seizure of Weapons, Drugs, and over $31 Million
@@ -669,6 +675,38 @@
 
 #### 2021 CWE Most Important Hardware Weaknesses
 * [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/28/2021-cwe-most-important-hardware-weaknesses): "The Homeland Security Systems Engineering and Development Institute, sponsored by the Department of Homeland Security and operated by MITRE, has released the 2021 Common Weakness Enumeration (CWE) Most Important Hardware Weaknesses List. The 2021 Hardware List is a compilation of the most frequent and critical errors that can lead to serious vulnerabilities in hardware. An attacker can often exploit these vulnerabilities to take control of an affected system, obtain sensitive information, or cause a denial-of-service condition."
+
+#### Forensic investigation environment strategies in the AWS Cloud
+* [AWS Security Blog](https://aws.amazon.com/blogs/security/forensic-investigation-environment-strategies-in-the-aws-cloud/): "When a deviation from your secure baseline occurs, it’s crucial to respond and resolve the issue quickly and follow up with a forensic investigation and root cause analysis. Having a preconfigured infrastructure and a practiced plan for using it when there’s a deviation from your baseline will help you to extract and analyze the information needed to determine the impact, scope, and root cause of an incident and return to operations confidently."
+
+#### Microsoft finds new macOS vulnerability, Shrootless, that could bypass System Integrity Protection 
+* [Microsoft Security Blog](https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/): "Microsoft has discovered a vulnerability that could allow an attacker to bypass System Integrity Protection (SIP) in macOS and perform arbitrary operations on a device. We also found a similar technique that could allow an attacker to elevate their privileges to root an affected device. We shared these findings with Apple through Coordinated Vulnerability Disclosure (CVD) via Microsoft Security Vulnerability Research (MSVR). A fix for this vulnerability, now identified as CVE-2021-30892, was included in the security updates released by Apple on October 26, 2021."
+
+#### Russian National Extradited to United States to Face Charges for Alleged Role in Cybercriminal Organization
+* [Department of Justice News](https://www.justice.gov/opa/pr/russian-national-extradited-united-states-face-charges-alleged-role-cybercriminal): "A Russian national, residing in the Yakutsk region of Russia and in Southeast Asia, had his initial appearance in federal court today after his extradition from the Republic of Korea to the Northern District of Ohio to face charges for his alleged role in a transnational, cybercriminal organization."
+
+### 2021/10/29
+
+#### GoCD Authentication Vulnerability
+* [US-CERT](https://us-cert.cisa.gov/ncas/current-activity/2021/10/29/gocd-authentication-vulnerability): "GoCD has released a security update to address a critical authentication vulnerability in GoCD versions 20.6.0 through 21.2.0. GoCD is an open-source Continuous Integration and Continuous Delivery system. A remote attacker could exploit this vulnerability to obtain sensitive information. CISA encourages users and administrators to update to GoCD 21.3.0 or apply the necessary workarounds. For more information, see Agent 007: Pre-Auth Takeover of Build Pipelines in GoCD."
+
+#### TAG Bulletin: Q3 2021
+* [Google TAG](https://blog.google/threat-analysis-group/tag-bulletin-q3-2021/): "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q3 2021. It was last updated on October 29, 2021."
+
+#### DOJ: Pirated sports streamer hacked accounts, extorted MLB
+* [BleepingComputer](https://www.bleepingcomputer.com/news/security/doj-pirated-sports-streamer-hacked-accounts-extorted-mlb/): Bill Toulas "The U.S. Attorney’s Office for the Southern District of New York has charged a man for illegally streaming MLB, NBA, NFL, and NHL games via the web and hacking into sports leagues' customer accounts. The charged individual is Joshua Streit, 30, of Minnesota, who allegedly streamed illegal re-broadcasts of major American sports leagues...The Department of Justice says that Streit operated a “live streaming” website for profit, offering access to the illegal sports content in exchange for subscription fees of $129.99 per season."
+
+#### Mozilla Firefox joins browsers implementing Global Privacy Control
+* [ZDNet](https://www.zdnet.com/article/mozilla-firefox-joins-browsers-implementing-global-privacy-control/) Jonathan Greig : "Mozilla has become the latest browser to test the waters in incorporating the Global Privacy Control in Firefox this week, calling itself "the first major web browser" to do so. The GPC -- required under the California Consumer Protection Act (CCPA) and Europe's Global Data Protection Regulation (GDPR) -- tells websites not to sell or share your personal data. Mozilla said the GPC is a prerelease feature available for experimental use in Firefox Nightly."
+
+#### TA575 criminal group using 'Squid Game' lures for Dridex malware
+* [ZDNet](https://www.zdnet.com/article/ta575-criminal-group-using-squid-game-lures-for-dridex-malware/): "Cybersecurity firm Proofpoint has found evidence of a prolific cybercrime group using the popularity of Netflix hit "Squid Game" to spread the Dridex malware. In a blog post, Proofpoint said TA575 -- a "large cybercrime actor" -- has sent emails pretending to be someone working on the show, urging people to download malicious attachments or fill out forms with sensitive information."
+
+#### Let's Encrypt explains last month's outages caused by certifacte expiration
+* [ZDNet](https://www.zdnet.com/article/lets-encrypt-explains-those-outages-last-month/): "Fortinet, Shopify and others reported issues last month thanks to the expiration of a root certificate provided by Let's Encrypt." 
+
+#### Schreiber Foods back to normal after ransomware attack shuts down milk plants
+* [ZDNet](https://www.zdnet.com/article/schreiber-foods-back-to-normal-after-ransomware-attack-shut-down-milk-plants/): "The milk processing company is the latest food industry enterprise to be hit with a ransomware attack."
 
 # NOVEMBER
 # DECEMBER
