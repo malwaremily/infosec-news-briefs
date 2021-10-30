@@ -711,4 +711,4 @@
 # NOVEMBER
 # DECEMBER
 
-</br>[Jump to Top](#Security-News-in-2021)
+</br>[Jump to Top](#infosec-news-briefs-2021)
